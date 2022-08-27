@@ -23,6 +23,7 @@ btnSubscribe.addEventListener('click', async () =>{
     txtEmail.value = ''
     txtLevel.value = ''
     txtCharacter.value = ''
+    alert("inscrito com sucesso!")
 })
 
 
